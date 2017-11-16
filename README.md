@@ -1,22 +1,22 @@
-UBUCoin
+ZuluCoin
 =====================================
 
 UbuCoin the first and only decentralized currency developed in Africa to uplift the standard of living 
 
-https://ubucoin.org
+https://uzulucoin.org
 
 What is UBUCoin?
 ----------------
 
 UBUCoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. UBUCoin uses peer-to-peer technology to operate
+anyone, anywhere in the world. ZuluCoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Bitcoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the UBUCoin, see https://ubucoin.org, or read the
-[original whitepaper](https://ubucoin.org/docs/ubucoin.pdf).
+the UBUCoin, see https://uzulucoin.org, or read the
+[original whitepaper](https://uzulucoin.org/docs/ubucoin.pdf).
 
 License
 -------
